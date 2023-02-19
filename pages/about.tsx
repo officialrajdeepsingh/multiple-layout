@@ -1,6 +1,5 @@
 import type { ReactElement } from 'react'
 import Layout from '@/components/Layout'
-import NestedLayout from '../components/Nestedlayout'
 
 const Page = () => {
   return  <article className="format dark:format-invert mt-4 mx-auto">

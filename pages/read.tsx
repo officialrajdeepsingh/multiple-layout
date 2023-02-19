@@ -3,9 +3,7 @@ import type { ReactElement } from 'react'
 import ReadingLayout from '@/components/ReadingLayout';
 
 function read() {
-    return (
-
-            <article className="format dark:format-invert mt-16 mx-auto">
+    return ( <article className="format dark:format-invert mt-16 mx-auto">
 
                 <h1>Understand The Android Features Before You Regret.</h1>
                 <p className="lead">Lorem excepteur dolore ex veniam ad velit officia enim velit consequat consequat nulla eiusmod</p>
@@ -13,14 +11,10 @@ function read() {
                     November 8th, 2022
                 </time>
 
-
-
                 <p>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, omnis accusantium! Hic ipsa repudiandae, quibusdam autem dolor earum labore vero voluptatem! Quaerat aliquam pariatur ex cumque sint quas ad rerum.
                 </p>
-                <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores quae culpa corporis quia ipsa saepe magni recusandae nihil impedit assumenda? Porro veniam consequatur adipisci, iure delectus cupiditate illo voluptate magni error aliquid vitae repudiandae, eligendi itaque, id explicabo corporis! Iusto vel minima, quam adipisci corporis incidunt. Saepe animi eaque natus vel provident velit autem officiis tenetur, eos fugit neque quia at ut odit iusto ea explicabo, totam blanditiis. Cum suscipit corporis in quae vel possimus eaque dolorum necessitatibus amet alias corrupti id, perspiciatis laudantium, numquam, iure fugiat. Laudantium rem id ipsam? Ipsa earum mollitia enim corporis pariatur repellendus magni numquam.
-                </p>
+                <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores quae culpa corporis quia ipsa saepe magni recusandae nihil impedit assumenda? Porro veniam consequatur adipisci, iure delectus cupiditate illo voluptate magni error aliquid vitae repudiandae, eligendi itaque, id explicabo corporis! Iusto vel minima, quam adipisci corporis incidunt. Saepe animi eaque natus vel provident velit autem officiis tenetur, eos fugit neque quia at ut odit iusto ea explicabo, totam blanditiis. Cum suscipit corporis in quae vel possimus eaque dolorum necessitatibus amet alias corrupti id, perspiciatis laudantium, numquam, iure fugiat. Laudantium rem id ipsam? Ipsa earum mollitia enim corporis pariatur repellendus magni numquam.</p>
 
                 <p>Before going digital, you might benefit from scribbling down some ideas in a sketchbook. This way, you can think things through before committing to an actual design project.</p>
                 <p>But then I found a <a href="#">component library based on Tailwind CSS called Flowbite</a>. It comes with the most commonly used UI components, such as buttons, navigation bars, cards, form elements, and more which are conveniently built with the utility classes from Tailwind CSS.</p>

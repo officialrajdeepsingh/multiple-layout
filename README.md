@@ -1,4 +1,4 @@
-Muliple-layout for nextjs, 
+I built a demo of nextjs with multiple layout.
 
 ## Getting Started
 

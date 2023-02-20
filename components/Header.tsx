@@ -23,6 +23,12 @@ function Header() {
                             </Link>
                         </li>
 
+                        <li className="mr-5 hover:text-gray-900">
+                            <Link href='/contact'>
+                                Contact
+                            </Link>
+                        </li>
+
                     </ul>
                 </nav>
             </div>

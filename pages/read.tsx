@@ -1,5 +1,7 @@
 import React from 'react';
 import type { ReactElement } from 'react'
+
+//  Import the reading layout
 import ReadingLayout from '@/components/ReadingLayout';
 
 function read() {

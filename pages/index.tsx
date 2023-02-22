@@ -2,8 +2,6 @@ import type { ReactElement } from 'react'
 import Layout from '@/components/Layout'
 import PostCard from '@/components/Post-card';
 
-
-
 const Page = () => {
   return <>
     <PostCard />
@@ -19,5 +17,6 @@ Page.getLayout = function getLayout(page: ReactElement) {
     </Layout>
   )
 }
+
 
 export default Page

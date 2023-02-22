@@ -1,6 +1,7 @@
 import type { ReactElement } from 'react'
-import Layout from '@/components/Layout'
 import PostCard from '@/components/Post-card';
+//  Import the layout
+import Layout from '@/components/Layout'
 
 const Page = () => {
   return <>

@@ -1,4 +1,6 @@
 import type { ReactElement } from 'react'
+
+//  Import the layout
 import Layout from '@/components/Layout'
 
 const Contact = () => {

@@ -4,11 +4,11 @@ import Header from './Header';
 
 function Layout({ children }: any) {
     return (
-        <div className=''>
+        <>
             <Header />
             {children}
             <Footer />
-        </div>
+        </>
     );
 }
 

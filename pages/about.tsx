@@ -1,5 +1,8 @@
 import type { ReactElement } from 'react'
+
+//  Import the layout
 import Layout from '@/components/Layout'
+
 
 const Page = () => {
   return  <article className="format dark:format-invert mt-4 mx-auto">
